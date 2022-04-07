@@ -350,13 +350,13 @@ class MyApp extends StatelessWidget {
                 Column(
                   children: const [
                     Icon(Icons.library_books, color: Colors.grey, size: 38,),
-                    Text("Home", style: TextStyle(color: Colors.grey),)
+                    Text("Explore", style: TextStyle(color: Colors.grey),)
                   ],
                 ),
                 Column(
                   children: const [
                     Icon(Icons.message, color: Colors.grey, size: 38,),
-                    Text("Home", style: TextStyle(color: Colors.grey),)
+                    Text("Chat", style: TextStyle(color: Colors.grey),)
                   ],
                 ),
 
